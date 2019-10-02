@@ -38,6 +38,11 @@
 - Bio: Proect manager turned developer
 - GitHub: [Evgeny Kasian](https://github.com/ievgenk)
 
+#### Name: [Sanjeeth](https://github.com/sanjeeth-07)
+- Place: London, UK
+- Bio: QA Engineer turned developer
+- GitHub: [Sanjeeth R](https://github.com/sanjeeth-07)
+
 #### Name: [Michael Cao](https://github.com/mcao)
 - Place: Pennsylvania, USA
 - Bio: Student at Penn State University
